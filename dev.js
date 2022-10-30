@@ -5,8 +5,8 @@ using namespace std;
   
 int binarySearch(int arr[], int, int, int); 
   
-// Returns position of first occurrence of 
-// x in array 
+// Returns position of first occurrence of sdasdsadsaasdasd
+// x in array dasdasdsasadasdasdasda
 int exponentialSearch(int arr[], int n, int x) 
 { 
     // If x is present at firt location itself 
