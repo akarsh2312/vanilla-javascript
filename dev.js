@@ -1,7 +1,7 @@
 // C++ program to find an element x in a 
 // sorted array using Exponential search. 
 #include <bits/stdc++.h> 
-using namespace std; 
+using namespace std; dasdasdasdasdas
   
 int binarySearch(int arr[], int, int, int); 
   
